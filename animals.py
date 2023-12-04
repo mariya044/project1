@@ -10,6 +10,7 @@ class Animal(Moving):
 
 
 
+
 class Transport(Moving):
     def launch(self):
         raise NotImplementedError
