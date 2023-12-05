@@ -6,8 +6,6 @@ class Moving:
         raise NotImplementedError
 
 
-
-
 class Animal(Moving):
     def voice(self):
         raise NotImplementedError
